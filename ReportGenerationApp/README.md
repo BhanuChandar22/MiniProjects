@@ -26,3 +26,4 @@ The **Insurance Report Generation System** is a web-based application designed t
 - **Build Tool**: Maven
 
 ## Demo Video
+https://drive.google.com/file/d/1YRPI_B7unjd8AphkDgD434lW_B0DkDgR/view?usp=drive_link
