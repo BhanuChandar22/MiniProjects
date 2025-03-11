@@ -6,7 +6,6 @@
 - [Technologies Used](#technologies-used)
 - [Database Design](#database-design)
 - [Demo Video](#demo-video)
-- [Screenshots](#screenshots)
 
 ## Project Overview
 The **Insurance Report Generation System** is a web-based application designed to efficiently manage citizen insurance plans. It allows users to search, filter, and generate detailed reports in **Excel** and **PDF** formats, which can also be sent via **email** as attachments for automated reporting.
