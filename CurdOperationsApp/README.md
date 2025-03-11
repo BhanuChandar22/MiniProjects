@@ -25,6 +25,6 @@ Developed a web-based application to manage employee records with CRUD operation
 - **Build Tool:** Maven  
 
 ## Demo Video
-https://drive.google.com/drive/u/0/folders/1eBdHa9_L6W3XJebMYp22DOX9LfsCS9In
+https://drive.google.com/file/d/1k7KqrM9f6ghpheQ7LFraTzMp39fOkGA8/view?usp=drive_link
 
 
